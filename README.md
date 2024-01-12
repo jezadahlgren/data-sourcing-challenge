@@ -9,4 +9,7 @@ Utlizing json to pull movie information from New York Times and TMDB and merging
 
 **Support:**
 I utilized the following extra sources: chatGPT, W3 and pandas.pydata
+<<<<<<< HEAD
 
+=======
+>>>>>>> f41da193f90459f1b8610543e79b2ec5ab69997c
